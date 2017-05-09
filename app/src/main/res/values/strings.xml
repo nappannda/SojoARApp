@@ -5,5 +5,7 @@
     <string name="permissionsRequred">Permissionsを許可してください</string>
     <string name="permissionsMessage">許可しないとアプリケーションが起動できません</string>
     <string name="exit">終了する</string>
+    <string name="show_ar">撮影する</string>
+    <string name="setting">設定</string>
 
 </resources>
